@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem Khaled</h1>
 <h3 align="center">A Passionate Android Developer From Egypt</h3>
 
-- 🔭 I’m currently working on [Note App]([https://github.com/hazemkhaled241/Chat](https://github.com/hazemkhaled241/Compose-Note-App))
+- 🔭 I’m currently working on [Note App](https://github.com/hazemkhaled241/Compose-Note-App)
 
 - 🌱 I’m currently learning **UI testing and Jetpack Compose**
 
