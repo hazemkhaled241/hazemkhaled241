@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemkhaled241&show_icons=true&theme=dark&locale=en" alt="hazemkhaled241" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemkhaled241&&theme=dark" alt="hazemkhaled241" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
