@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=++Hello!+I'm+Hazem+Khaled+🌻)](https://git.io/typing-svg)
+<img align="center" alt="Coding" width="300" src="https://media.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.giff)">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
+
 <h1 align="center">Hi 👋, I'm Hazem Khaled</h1>
 <h3 align="center">A Passionate Android Developer From Egypt</h3>
 
