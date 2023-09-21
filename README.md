@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=e02ada&style=flat" alt="hazemkhaled241"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=++Hello!+I'm+Hazem+Khaled+🌻)](https://git.io/typing-svg)
 <img align="center" alt="Coding" width="300" src="https://media.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.giff)">
