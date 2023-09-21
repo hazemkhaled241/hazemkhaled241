@@ -8,12 +8,12 @@
 
 <div align="center"> <img src="https://w0.peakpx.com/wallpaper/872/549/HD-wallpaper-lance-concept-night-work-home-woker-working-at-night-programmer.jpg"> </div>  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
+
 <h1 align="center">Hi 👋, I'm Hazem Khaled</h1>
 <h3 align="center">A Passionate Android Developer From Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
 
 - 📫 How to reach me **hazemkhaled3166589@gmail.com**
 
