@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=++Hello!+I'm+Hazem+Khaled+🌻)](https://git.io/typing-svg)
 <img align="center" alt="Coding" width="300" src="https://media.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.giff)">
@@ -13,6 +12,8 @@
 <h3 align="center">A Passionate Android Developer From Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
 
 - 📫 How to reach me **hazemkhaled3166589@gmail.com**
 
