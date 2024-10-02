@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hazemkhaled3166589@gmail.com**
 
-- 🔭 I’m currently working on [Buroto App](https://github.com/hazemkhaled241/Compose-Boruto-App)
+- 🔭 I’m currently working on [E-Shop App](https://github.com/hazemkhaled241/E-Shop-Compose)
 
 - 🌱 I’m currently learning **UI testing and Jetpack Compose**
 
