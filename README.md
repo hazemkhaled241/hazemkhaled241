@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **hazemkhaled3166589@gmail.com**
 
-- 🔭 I’m currently working on [E-Shop App](https://github.com/hazemkhaled241/E-Shop-Compose)
-
-- 🌱 I’m currently learning **UI testing and Jetpack Compose**
+- 🌱 I’m currently learning **HTML CSS And Java Script**
 
 
 <h3 align="left">Connect with me:</h3>
