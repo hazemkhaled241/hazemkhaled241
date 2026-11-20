@@ -12,13 +12,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hazemkhaled241&label=Profile%20views&color=0e75b6&style=flat" alt="hazemkhaled241"/></p>
 
 <h1 align="center">Hi 👋, I'm Hazem Khaled</h1>
-<h3 align="center">A Passionate Android Developer From Egypt</h3>
+<h3 align="center">A Passionate Software Engineer From Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 📫 How to reach me **hazemkhaled3166589@gmail.com**
 
-- 🌱 I’m currently learning **HTML CSS And Java Script**
+
 
 
 <h3 align="left">Connect with me:</h3>
